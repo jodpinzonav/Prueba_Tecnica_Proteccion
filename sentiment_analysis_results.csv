@@ -1,0 +1,251 @@
+id,tweet_original,sentimiento_real,pred_ml_tradicional,correcto_ml
+1,oswer díaz mireles de nuestros buenos fotógrafos era un apasionado y tuve la dicha de conocerlo y compartir con él la última vez que lo vi fue en una rueda de prensa de cúsica fest y nada muchas anécdotas lo recordaré como un gran profesional y amigo descansa chino,NEUTRO,POSITIVO,False
+2,vamos a jugar a corazonesbueno son muchos que sean,NEGATIVO,NEGATIVO,True
+3,los valientes fueron antes cobardes si eres un pequeño cobarde puedes ser un gran valiente,POSITIVO,NEGATIVO,False
+4,un lindo y sosegado pajarito se posaría en la ventana de una gigantesca casa sp observa al pajarito y se acercaría con cuidado para no asustarlo que linda ave espero y me visite más a menudo night que bonito c lo come sp compas,NEUTRO,NEUTRO,True
+5,les deseo lo mejor a los dos por separado que sean muy felices con quienes quieran me voy,NEGATIVO,NEGATIVO,True
+6,no puedo creer que en serio haya gente latina diciendo que lo que hicieron los españoles con su conquista de mrd fue bueno y que sin ellos no hubiéramos evolucionado que tan pdj deber ser para decir algo así xd,POSITIVO,POSITIVO,True
+7,alchile si acabé bien confundido viendo el niño y la garza,NEGATIVO,POSITIVO,False
+8,el cigarrito de es relativamente tarde y ha salido a que le de el aire y fumarse que ya va siendo hora de unirse al equipo cenó bien pero se ha retirado que ahora poco tenía que aportar llegó tarde pero llegó ah el vino lo pondrá en la misma mesa mañana,NEGATIVO,NEGATIVO,True
+9,el dia mas caloroso del año en cali siempre es el ero de enero ahss,NEUTRO,NEUTRO,True
+10,que deseo para un país próspero q le de oportunidades a mis hijos donde puedan vivir trabajar y soñar con una venezuela hermosa,POSITIVO,NEUTRO,False
+11,tenemos muchos mensajes represados y un inconveniente para responder lo más pronto posible estaremos respondiéndole a todos les pedimos excusas,NEUTRO,NEUTRO,True
+12,es tan irónica la vida mi trabajo radica en subir fotos y videos y hacer interesante y relevante la vida de otras personas mientras guardo un completo silencio sobre la mía,NEUTRO,NEUTRO,True
+13,problema resuelto así resuelvo todo últimamente,POSITIVO,NEUTRO,False
+14,yo soy de esos que no me quejo por nada con quejas no soluciono nada vivo y dejo vivir disfruto con la envidia de los demás yo tengo a la vecibicha y a la vecimasquebicha y tú envidioso que tienes además de la amargura,NEGATIVO,NEGATIVO,True
+15,me párese re injusto que cuando las mujeres opinemos algo xq nos molesta ya se enojan y ya nos tratan mal solo fue un comentario y si te molesto xq será verdad,NEGATIVO,NEGATIVO,True
+16,orinson amaya salió tirandole a la afición alguien dígale q la razón por la q la afición está impaciente es pq el corrio a royon y gorga un con condiciones al igual que el defensa a eso sumenle q corrió al dt la gente está molesta pq su gestión deportiva es una mierd fin,NEGATIVO,NEGATIVO,True
+17,gracias por el stream de hoy solo sacamos victorias una con espero no equivocarme de herita por si es asi perdon jaja y otra victoria en que me enfrente con mi archienemigo el escudo blindado,NEUTRO,NEUTRO,True
+18,las medallas esas deben estar embrujadas,NEUTRO,POSITIVO,False
+19,el pacífico colombiano es magnífico,NEUTRO,NEUTRO,True
+20,de donde carajos salió toda la plata que dice el resumen de mi nequi quedé anonadado,POSITIVO,POSITIVO,True
+21,m quedo fokin boquiabierto viendo la pelicula porke conchetumare le tiro una silla a la cabeza,POSITIVO,POSITIVO,True
+22,con profundo dolor y tristeza recibimos este día la noticia del fallecimiento en un accidente automovilístico de tres servidores de la nación que colaboraban con el apoyo a la reconstrucción de acapulco nuestra eterna gratitud y nuestro profundo reconocimiento para ellos hasta el cielo a sus familiares amigos y compañeros las más sentidas condolencias a nombre del pueblo acapulqueño toda su labor será siempre reconocida en esta ciudad que hoy eleva una oración en su nombre,NEUTRO,POSITIVO,False
+23,soy un soñador y por nada me detengo,NEGATIVO,NEGATIVO,True
+24,mis panas dándome el honor de inquebrantable después de tenerme secuestrada en una partida donde me fue horriblemente mal que me moría de básico y que por llamada les suplicaba para rendirnos bien bonitos,NEUTRO,NEUTRO,True
+25,ah ojalá poder guardar el día de hoy en un lugar de mi cabeza que pueda verlo siempre y volver a sentirme igual de apacible y feliz,NEGATIVO,NEUTRO,False
+26,el mensaje un mensaje de que debido al cambio positivo que has hecho en tu vida has atraído el flujo de abundancia positiva a tu vidatus acciones positivas y tu renovado sentido del yo han asegurado que las energías positivas la abundancia y la prosperidad llenen tu vida,POSITIVO,NEUTRO,False
+27,q divertido el fútbol de mi pueblo puros cuentasos nomás,POSITIVO,POSITIVO,True
+28,atake d chochoneria y feliz espontaneo,POSITIVO,NEUTRO,False
+29,me he quedado totalmente aislado y no como suelo hacer con mis métodos erróneos de autodefensa,NEGATIVO,POSITIVO,False
+30,que cojones hago viendo operación triunfo,POSITIVO,POSITIVO,True
+31,no cabe duda que despues de un me pongo amoroso,NEUTRO,NEUTRO,True
+32,ese anthony es osado oeeee quiere hacer su propia salchicha qué loco mccelebrityec,POSITIVO,NEGATIVO,False
+33,ha resuelto ya el zendal de m de euros el problema de saturación de la sanidad pública y ayuso está repartiendo mascarillas de su hermano gratis para los madrileños viendo hospitales en gaza estamos aquí cómo para un bombardeo menuda vergüenza de saqueadores de lo público,POSITIVO,POSITIVO,True
+34,una vacuna contra el doxing es ser un tanto desvergonzado pero que no se les pase la mano recuerden que solo es un nivel de desvergüenza suficiente para no sufrir un desbalance emocional severo ante la amenaza de cualquier pendejx que se cree la virtud en dos patas,POSITIVO,NEGATIVO,False
+35,quería aún quiero culparte no solo por cómo me trataste también por la forma que me dejaste ir rápido y sin dudarlo no justifico tu actuar pero reconozco que muchos días yo solita me rompí el corazón queriendo ser esa persona para ti y que tú fueras para mí,NEUTRO,NEUTRO,True
+36,pudiendo ser tantas cosas por qué no eliges ser compasivo,NEUTRO,POSITIVO,False
+37,apoco si muy devoto,NEUTRO,NEGATIVO,False
+38,colapsado y aburrido de la vida,NEGATIVO,NEGATIVO,True
+39,chau más de una hora,NEGATIVO,NEUTRO,False
+40,lo fatigado que tengo los brazos quizás esos mil litros vinieron con delay,NEGATIVO,NEGATIVO,True
+41,hemos vuelto a ir al hospital porque el cólico de riñón no mejora después de días se han negado a hacerme una ecografía porque tenían el hospital saturado de covid y gripe a que si quería me hacían otra analítica sigo sin saber si aun tengo la piedra y es lo que me mata,NEGATIVO,POSITIVO,False
+42,este año definitivamente arrancó con muchas sorpresas y una que otra decepción pero aún así lo recibo con agradecimiento porque poco a poco de todo se aprende,NEUTRO,NEUTRO,True
+43,una vez fueron a mi casa unos guardias civiles a decirle a mi madre de ir de testigo a un juicio y lo primero que soltó mi madre tras eso fue mi hijo no ha hecho nada eh,NEUTRO,NEGATIVO,False
+44,te amo negan,NEUTRO,NEUTRO,True
+45,comprende akira es como un perro que necesita espacio para correr o se comienza a angustiar apuntado para próximos exámenes una ceja alza mirándole de soslayo mientras esperaba en la barra por su batido ya te has calmado no esperaba verle tomando té ni nada en,NEUTRO,NEUTRO,True
+46,gracias por su apoyo gente gracias a ustedes ya somos k no lo abria logrado sin ustedes los quiero muchas gracias,POSITIVO,NEUTRO,False
+47,sin la siguiente estrofa pobre soñador del tri sería la canción perfecta tú me haces sentir en un jugo de béisbol me ponchas y me haces batear de jonrón,NEGATIVO,POSITIVO,False
+48,hasta que me muera encogió los hombros despreocupado a pesar de todo no había planteado el dejar de fumar nunca no si incluso se drogaba con pastillas qué más le da,NEUTRO,NEGATIVO,False
+49,buenasnoticias termina huelga en el gracias al diálogo constructivo del y de las autoridades educativas hoy se firma en el centrofederallaboral el convenio del incremento salarial del en beneficio de casi mil académicos y administrativos,POSITIVO,NEUTRO,False
+50,único ponto positivo,POSITIVO,POSITIVO,True
+51,art las cortes generales mediante ley orgánica podrán por motivos de interés nacional c sustituir la iniciativa de las corporaciones locales a que se refiere el apartado del artículo,NEGATIVO,NEGATIVO,True
+52,cual es su cancion favorita del triangulo amoroso de folklore ahre que no me va a responder nadie y que soy literal el meme de ariana grande hablandole a la pared,NEUTRO,NEGATIVO,False
+53,las personas somos to complicas en verdad paz y amor,NEUTRO,POSITIVO,False
+54,pensando que este es el último puente festivo toca esperar hasta marzo,POSITIVO,POSITIVO,True
+55,choque múltiple autos en costanera en brillante semáforo dirección chgte conce,POSITIVO,POSITIVO,True
+56,mi sueño frustrado es que me organicen un cumpleaños sorpresa,NEGATIVO,NEGATIVO,True
+57,por si no me conocen tengo cara de bebé de bebedor compulsivo,NEGATIVO,NEGATIVO,True
+58,yo solo quiero vivir dentro de heartstopper y que todo sea puro y tierno y me salgan corazoncitos cuando me siento feliz solo soy una chica,NEUTRO,NEUTRO,True
+59,lrt esa es una de las razones por las cuales no soporto a los árabes particularmente musulmanes lloran por colonización pero se dan golpes en el pecho cuando hablan de la conquista árabe más o menos igual con ciertos grupos indígenas y movimientos indigenistas,POSITIVO,NEUTRO,False
+60,todos juntos por un cambio positivo unidostodosx dezurdateam,POSITIVO,POSITIVO,True
+61,vean el cielo y encuentren la estrella más brillante está wouu,POSITIVO,POSITIVO,True
+62,q poco atractivo el ego y la autoconfianza pero q atractivo cuando alguien es mamón sabiendo q en el fondo es inseguro,POSITIVO,POSITIVO,True
+63,viernes la luna entra en escorpio utiliza la energía transformadora de la luna de escorpio para abrazar la introspección purgar la negatividad sumergirte en el trabajo interior practicar la empatía las emociones pueden intensificarse se proactivo no reactivo,NEUTRO,NEUTRO,True
+64,que la hermana de me haya aceptado en twitter me parece maravilloso,POSITIVO,POSITIVO,True
+65,yo estoy aquí echado en mi cama en año y medio voy a ser un fuckin crack despreocupado,NEUTRO,POSITIVO,False
+66,en plan de verdad ha sido navidad me he aislado tanto de todo para no sufrir que es como si no hubieran existido y la ansiedad me hubiera borrado la memoria y ayer era el puente de diciembre y estaba acabando las clases,NEGATIVO,NEGATIVO,True
+67,estoy tremendamente asombrado de la cantidad de gente que desean que a le vaya mal aunque esto implique un enorme daño social por favor tengan empatía dejen de lado intereses personales por una vez en la vida acompañen un cambio sin mirar color político por favor,POSITIVO,NEGATIVO,False
+68,especialmente titubeante pagni le salva las papas olivera con sutiles correcciones la está trabajando de duro aburrido,NEGATIVO,NEGATIVO,True
+69,muy triste por la muerte de carlos bremer un empresario mexicano exitoso y que parte de la fórmula de su éxito empresarial estaba en la gente sus consejos serán eternos,POSITIVO,NEUTRO,False
+70,busco una calma inalcanzable la atmósfera aquí no es fiable quiero estar solo si solo todo estará bien,NEUTRO,NEUTRO,True
+71,hola buenos días siempre somos y seremos invencibles fuerte como el acero y poder enfrentar toda debilidad que venga para salir victorioso por nuestra venezuela grande y prospera con nuestro presidente nicolás maduro y su tren ejecutivo victoria,POSITIVO,POSITIVO,True
+72,mi primer artículo del año es super optimista todavía no lo entrego y yo creo que ya será hasta después del fin de semana que lo haga pero me impacta como me sale el optimismo cuando veo las tendencias,POSITIVO,POSITIVO,True
+73,darme cuenta de todo lo que he avanzado sanado y logrado en estos últimos cinco meses de mi vida es maravilloso,POSITIVO,POSITIVO,True
+74,observar esperar y ganar el presidente donald trump publicó este vídeo que debe ver en truth social esta mañana tras la exposición masiva de la pedofilia del estado profundo en un movimiento asombroso que ha causado conmoción en todo el panorama político donald trump,POSITIVO,POSITIVO,True
+75,me di una vuelta por x para descubrir asombrado que publicación de las listas de epstein resucitó a todos los conspiracionistas desatados que vacunas con chip g hillary violando niños en una pizzería el fraude electoral de trump volvió todo hay gente muy rara en este mundo,POSITIVO,POSITIVO,True
+76,firmeza malokeira de quebrada,POSITIVO,POSITIVO,True
+77,aiga sido como haiga sido el gober quiere al señor de apellido de tienda comercial como candidato lo que no sé es que lo quiera de presidente municipal pues parece que el de la oposición no le es indiferente no tengo pruebas pero no tengo dudas ja,POSITIVO,POSITIVO,True
+78,matt estaba sentado en su escritorio soñoliento y encorvado se espabiló un poco cuando neil cerró la puerta tras de sí y este vio la preocupación en su rostro iluminado por el monitor del ordenador el hecho de que matt se había quedado despierto a esperarlo,NEGATIVO,NEGATIVO,True
+79,hay días en que se siente la necesidad de sentarte en un sofá placido de esos que por el pasar del tiempo nos invitar a quedarnos y hablar sabroso saben esas conversaciones sobre arte sobre cine esas pláticas sobre el hedonismo de coincidir en gustos o poder aprender,NEUTRO,NEGATIVO,False
+80,me retiro un tiempo del fútbol o me apasiono más cabrón de lo que me he apasionado en mi vida no va a haber punto medio esta temporada,NEUTRO,NEGATIVO,False
+81,los plebeyos se juntan con plebeyos les pone incomodos la abundancia la prosperidad les pone incómodos alguien que siempre esté hablando de progreso nunca vas a ver a un hombre exitoso con una mujer pobre de mente a su lado,POSITIVO,POSITIVO,True
+82,saber que con quien estuve románticamente me faltara el respeto cuando yo no estaba presente me dejó tan boquiabierto,POSITIVO,POSITIVO,True
+83,que hermosas son las vacaciones en la costa completamente desconectado del mundo y del celular como nunca antes en el año,NEGATIVO,NEGATIVO,True
+84,le doy gracias a diosito por haberme alejado de esa familia,NEGATIVO,NEGATIVO,True
+85,qjsjs seguro la otra no le dice que es hermoso como yo le decia pero a el le gano el orgullo y buee,NEUTRO,POSITIVO,False
+86,mi hermana una vez me juró que a las niñas les gusta más el más risueño y no el más guapetón,POSITIVO,NEGATIVO,False
+87,si va a llover que refresque sino que ni lluevaaaaaa,NEGATIVO,NEGATIVO,True
+88,the marias merece más reconocimiento,NEUTRO,NEUTRO,True
+89,mi cuñado es el más atento,NEUTRO,NEUTRO,True
+90,el antídoto nos será útil durante su recuperación diluye la esencia de los pétalos y mézclala con un reactivo para neutralizarlo luego lleva la mezcla a punto de ebullición y agítala bien,NEUTRO,NEUTRO,True
+91,estoy cansado pepe,NEGATIVO,NEGATIVO,True
+92,una mujer observa su cuerpo intranquila como si fuera un aliado poco fiable en la lucha por el amor unidostodosx dezurdateam,NEUTRO,POSITIVO,False
+93,las personas que tienen lo material resuelto tienen que empezar a cerrar el orto,NEUTRO,POSITIVO,False
+94,viendo por youtube las distintas celebraciones de reyes de américa latina una gran variedad de costumbres y tradiciones,POSITIVO,POSITIVO,True
+95,quiero renunciar solo para tener mi liquidación xd quiero irme de viaje amigos,NEGATIVO,NEGATIVO,True
+96,quien fue el envidioso ke me tiro mal de ojo para que me salieran mil granos,NEGATIVO,POSITIVO,False
+97,mis condolencias para la familia y amigos de carlos bremer fue un gran impulsor y apasionado del deporte mexicano agradezco sinceramente cada atención que tuvo hacia mí recordaré con mucho cariño su legado,NEUTRO,NEUTRO,True
+98,si no hubiera pasado lo que pasó en guatemala mi tuiter estaría inundado de puro amortz del amor inmenso que tengo por un hermoso ser,NEGATIVO,NEGATIVO,True
+99,amigo q hueso que estoy en el bass toy frustrado,NEGATIVO,NEGATIVO,True
+100,que saturado q estoy,NEGATIVO,NEGATIVO,True
+101,ese último ingreso sí me partió la madre la vida mip no es como la imaginaba estado cansado y desilusionado hasta eso la comida está buena eso me mantiene de pie,NEGATIVO,NEGATIVO,True
+102,tobias podra ser desalentado poco agraciado no carismatico sin buen fisico pero nunca caeria mal,NEGATIVO,NEGATIVO,True
+103,hoy en autobi bajando san cristóbal me robaron q porque fui a pagar la colegiatura de mi hija y el receptor me dice que faltan mil pago más de k de colegiatura los cuales la secretaria y yo contamos el dinero por separado aún así desconfiado los volví a contar sigue,NEGATIVO,NEUTRO,False
+104,llorando y viendo el asombroso mundo de gumball terapia si preguntan,POSITIVO,POSITIVO,True
+105,desconcertado de la realidad que vivo y mi subconsciente,NEGATIVO,POSITIVO,False
+106,llámenme osado pero a lo que le dicen calidad de vida en mis libros es más como cantidad de vida,POSITIVO,POSITIVO,True
+107,lovesongforillusionep un chico que fue maltratado en su infancia desarrolla doble personalidad uno es irreverente e intrépido el otro es amante de las artes y la costura una noble destronada busca venganza ellosformarán equipo park jihoon es garantía,POSITIVO,POSITIVO,True
+108,alerta urgente el viento ha causado caidas de arboles postes de electricidad importantes destrozos en huinca renanco y zona,NEUTRO,NEUTRO,True
+109,qué chistosa es lizli dice que no puede cometer errores cómo si por eso hubiera perdido,NEGATIVO,NEGATIVO,True
+110,el conicet tendria q haber inundado el pais con repelentes,NEGATIVO,NEGATIVO,True
+111,de manera apacible se puede sacudir el mundo mg,NEUTRO,NEGATIVO,False
+112,ah no la culpo hm ya entiendo supongo que sí sale victorioso un tema de inferioridad no debería ser problema,POSITIVO,POSITIVO,True
+113,que pasa cheeeee como andan yo aquí sin poder rankear por que no arreglan los puts servers de r de mrd,POSITIVO,NEUTRO,False
+114,soy un soñador pero dormido no estoy,NEGATIVO,NEGATIVO,True
+115,bendecido por tener a mis padres un año más y haber hecho otro viaje juntos,NEUTRO,NEUTRO,True
+116,el debido proceso debe ser agotado,NEGATIVO,NEGATIVO,True
+117,por cierto tener que envolver un banco de musculación es una pésima experiencia me quedé sin papel y tuve que mezclar dos,NEGATIVO,NEUTRO,False
+118,fue un día muy largo y productivo me parece un planazo darme un baño y acostarme a ver la nueva serie de harlan coben,POSITIVO,POSITIVO,True
+119,la mayor de las hermanas me pregunta a gabbai si sería muy osado pedirle que la acompañase hasta al menos el comienzo del pasillo de su alcoba está un poco oscuro y parece no confiar demasiado en nadie el hombre asiente no sin antes mirar a harahel disculpándose hasta,POSITIVO,POSITIVO,True
+120,junte mis pedazos y construí una versión de mi que es más valiente y se anima a ser lo que yo ayer no fui,POSITIVO,POSITIVO,True
+121,convocatoria de plazas teamdaisy r cumplidos en tan solo días de este mes de enero de varios alumnos aprobando cuentas fondeadas en menos de una semana ambiente distendido formal y técnico en tg y discord sesiones de londres nueva york y permanentes criptomaterias primas durante enero abrimos convocatoria para plazas en la academia por favor mándenme enero al md para reservar la suya,NEUTRO,NEUTRO,True
+122,exitoso hombre de negocios,POSITIVO,POSITIVO,True
+123,ahorita hay desaparecidas jovenes mante tamaulipas y una en madero les recomiendo poner la denuncia antes las autoridades correspondiente para que queden antecedentes probablemente un policia se ofrezca a negociar la liberacion es el modus operandi de policia y delincuente,NEUTRO,POSITIVO,False
+124,prime video está underrated me ha sorprendido bastante,POSITIVO,POSITIVO,True
+125,hoy he extrañado a mi hermana más que nunca,POSITIVO,NEGATIVO,False
+126,por lobby que se junten en la casa de un senador a conversar cosas en un ambiente más distendido que no esté la prensa para poder afinar las cuerdas me parece válido debería transparentarse y ser normado iván weissman editor de el mostrador semanal juntosyrevueltos con fran castillo,NEUTRO,NEUTRO,True
+127,es distinto estar solo a estar en solitario,NEGATIVO,NEGATIVO,True
+128,marico que arrechera cuando uno hace el trabajo de uno bien y en el momento que se lo piden pero cuando espero algo de la otra persona no le veo interés ni siento que se mueva para resolver rápido lo que le toca hacer,NEUTRO,NEGATIVO,False
+129,que zalaquett haga una junta en su casa con ministros del actual gobierno y empresarios influyentes no es normal y no es normal x el funcionamiento del pais x la esperanza de disyuntiva competente aspirando a balance en decidir no defiendan wns ciudadanos tiemposviolentos,POSITIVO,POSITIVO,True
+130,los valientes fueron antes cobardes si eres un pequeño cobarde puedes ser un gran valiente,POSITIVO,NEGATIVO,False
+131,indignado porque regalaron mi protector solar,NEGATIVO,NEGATIVO,True
+132,este lunes ya empiezo con mi glow up asegurado,NEUTRO,POSITIVO,False
+133,q gracioso q la hayan sacado a la pepona se descansan solitos jakjajk,POSITIVO,POSITIVO,True
+134,por esta vida de mierda gracias gracias gracias,NEGATIVO,NEUTRO,False
+135,me agradan las personas donde el silencio no es incómodo,NEGATIVO,POSITIVO,False
+136,me parece más divertido ver a las furiosas cocinar que a los boludos bailando granhermano,POSITIVO,POSITIVO,True
+137,hoy estoy triste y enfadada porque me han perdido un envío con una obra original y le han fastidiado las fiestas a unas cuantas personas,NEGATIVO,NEGATIVO,True
+138,bueno reyes ha caído en sábado día no laborable de todos modos así que ni hace puente festivo ni nada de nada no me consta que ninguna comunidad autónoma lo haya dejado para el lunes que hubiera sido una tontería,POSITIVO,NEUTRO,False
+139,creo que sin ser optimista no se puede ser revolucionario porque las dificultades que una revolución tiene que vencer son muy serias y hay que ser optimistas un pesimista nunca podría ser revolucionariofidelporsiempre latirxunavileño,POSITIVO,NEGATIVO,False
+140,argentina está tan a fondo en el choreo y currerío que es muy difícil de curar a pleno aunque parezca que hay una oportunidad si no querés perder tu vida esperanzado por años la salida es y siempre será ezeiza,POSITIVO,NEGATIVO,False
+141,pues ando contrariado,NEGATIVO,NEGATIVO,True
+142,tener el abdomen distendido pues claro que si y comerme un chocolatico aunque pueda ponerme peor también,NEUTRO,NEUTRO,True
+143,me sorprende la cantidad de pornx animado que hay osea a quien le puede calentar eso,POSITIVO,POSITIVO,True
+144,ver como llevan con mucha ilusión los juguetes para sus hijes ha sido mi dosis de serotonina estos días alch que bonito hasta olvido lo saturado que va el metro,NEGATIVO,NEGATIVO,True
+145,gelp todas buenas noticias cowen se fue tarragona se fue guiffrey que pelotudo fuiste saravia no quiere estar más benja ni noticias sos un crackkkkkk,NEGATIVO,NEUTRO,False
+146,lo caída que está la página del movistar que intento entrar a mis compras para ver la entrada y no carga no desesperare se que esta colapsado,NEGATIVO,NEGATIVO,True
+147,abuelo de asambleista valentina centeno sufrió asalto y robo en su domicilio de portoviejo al ser repelido el ataque con arma de fuegose impactó a un delincuente en la cabeza el delito común crece y no se puede estar esperanzado solo en lo que vendrá en meses,POSITIVO,POSITIVO,True
+148,mi cuñado dijo algo asombroso soy hombre no puedo hacer dos cosas a la vez,POSITIVO,POSITIVO,True
+149,reactivo,NEUTRO,NEUTRO,True
+150,déjame que te pueda cantar lo que nunca debí de callarme contigo soy tu cara y tu cruz soy tu guerra y tu paz soy todos los que aquí me escucháis soyy,NEUTRO,NEGATIVO,False
+151,todos dormidos y suena la alarma de la casa mi hermano pregunta que quien abrió alguna ventana o puerta y evidentemente nadie fue acto seguido el dispositivo dice en altavoz por allá lejos que han desconectado la corriente y sólo pensé valí verga todo esto a las am,NEGATIVO,NEUTRO,False
+152,soy competente consciente de que estoy dando verguenza en la privada,POSITIVO,NEGATIVO,False
+153,me siento muy abrumado,NEGATIVO,NEGATIVO,True
+154,si me duermo a las me levanto a las fresco como una lechuga ah pero si me duermo a la me levanto a las todo amodorrado y cuasi crudo como si me hubiera ido de peda,NEGATIVO,NEUTRO,False
+155,dias muy caloroso,NEUTRO,NEUTRO,True
+156,la violencia se recrudece el demagogo minimiza o se burla tres personas que buscaban candidaturas de oposición han muerto en las últimas horas dos de la alianza en morelos y chiapas y uno de mc en colima qué se necesita para dejar de ofrecer abrazos y ofrecer protección,NEUTRO,NEUTRO,True
+157,hasta que me muera encogió los hombros despreocupado a pesar de todo no había planteado el dejar de fumar nunca no si incluso se drogaba con pastillas qué más le da,POSITIVO,NEGATIVO,False
+158,es paete del trato dixe el sistrma penal de jsitiica caoigal del pais y aki ests mi travesura dice el guero,POSITIVO,NEUTRO,False
+159,entiendo el que nos dejaremos de ver pero no entiendo por qué te vuelves tan distante de la noche a la mañana sin hablar antes,NEGATIVO,POSITIVO,False
+160,que rápido volviste a buscar su consuelo,NEUTRO,NEGATIVO,False
+161,no entiendo lo que dices pero debes detenerte no existe ninguna gemela mía de a poco aquella desbordante energía que cubrió su silueta de oscuridad comienza a desaparecer,NEGATIVO,NEGATIVO,True
+162,por fin se me dió el match ludery,NEUTRO,NEUTRO,True
+163,esperando por la pvt cerd de eudald apreciativo,NEUTRO,NEGATIVO,False
+164,qué página verga sos movistar arena más de hs de fila y volvió al inicio de vuelta,NEGATIVO,NEGATIVO,True
+165,ro abres el no con jermaine palacios dando imparable y luego mandas a tocar a javier sanoja a tocar luego das luz verde y este batea para doble play el béisbol castiga cuando lo juegas mal,POSITIVO,POSITIVO,True
+166,odio no poder dejarte de ver con estos ojos que solo ven ternura en vos después de todo,NEUTRO,NEGATIVO,False
+167,felicito ampliamente al imbécil de por cerrar una arteria crítica de la ciudad corregidora está colapsado el centro gracias ndejo,NEGATIVO,NEGATIVO,True
+168,en serio me gustaría tener un novio para ir a san josé del pacífico,NEUTRO,NEUTRO,True
+169,sirve ambos vasos el suyo hasta la mitad el de melana sólo un culín es bondadoso por la diferencia de tamaño cuando alza el suyo para brindar sonríe con cierta malicia anaan y pa dentro el chupito,NEUTRO,NEUTRO,True
+170,que día productivo lcdll trabaje encontré salón para mis clases arme dos coreos me hice una amiga nueva y encima luquitas vuelve esta noche de su viaje yofe lizzzzz,POSITIVO,POSITIVO,True
+171,mañana terminare el zeldano al la verdadel juego me encantóhace mucho que no disfrutaba de un juego en solitariome gustaría tenerlo al pero nopronto empiezan mis clases además que son muchas cosas que no pienso hacerahora me siento vacíopensando y escuchando toda,NEGATIVO,POSITIVO,False
+172,dioooooooos te amo bol bol,NEUTRO,NEUTRO,True
+173,ya la otra semana termino un show mas y hora de aventura mis últimas palabras con respecto a estas series es que me acompañaron a finales del las aprecio más que la primera vez y pese a sus defectos fueron lo mejor que ha sacado cartoon network,NEUTRO,NEGATIVO,False
+174,agradecido siempre por quien está y por quien no,NEUTRO,NEGATIVO,False
+175,merida tierra de anarquía los moteros de nuevo haciendo de las suyas en el municipio libertador otro año más el merideño es marginado y pisados sus derechos por estos turistas que vienen a molestar corriendo por las avenidas sin control y sin supervisión,NEGATIVO,NEUTRO,False
+176,que rabia que sea tan hermoso seguro todas le responden la historia,NEUTRO,POSITIVO,False
+177,hace años no sabía que era estar los primeros días de enero en la perla tan relajado y descansando en la house demasiado agradecido por todo,NEUTRO,NEUTRO,True
+178,cáncer cualquier acción que implique traicionar sus valores debe ser rechazado por usted cuidado con los futuro problemas de motricidad por culpa del sedentarismo tiene que lograr ese ascenso y para esto es importante mostrar todo su empeño,NEGATIVO,NEGATIVO,True
+179,cuando empiezas a madurar te das cuenta de que todo lo que buscas es un hogar un trabajo estable y alguien que te de paz amor y lealtad,NEUTRO,NEUTRO,True
+180,ahora que haré esos meses incapacitado,NEGATIVO,NEGATIVO,True
+181,pienso que después de haber tenido episodios depresivos muy fuertes en mi vida con el tiempo uno le otorga a la tristeza cierto sentido apreciativo aprender uno a vivir con ella y encontrarla bonita y a veces necesaria,NEUTRO,NEGATIVO,False
+182,hoy murió carlos bremer empresario mexicano exitoso y visionario siendo un ejemplo de lo que debe ser y hacer un empresario preocupado y apoyando a su personal y emprendiendo más negocios en conjunto con dueños de mipymes méxico necesita empresarios cómo él y no explotadores,NEGATIVO,NEGATIVO,True
+183,a propósito del asesinato de f villavicencio cevallos declaró q los zapata dejaron en indefensión al candidato facilitando así la labor d los asesinos entonces cabe la pregunta quién es más peligroso un asesino reconocido o un capitán o general tapiñado,NEUTRO,NEUTRO,True
+184,adoro al dúo limalimón son un mar de risas y q se ve tan comfy con r charlan pelean de chill y sobretodo q se oye más sincero y calmado cuando charla con él los quiero mucho que feliz me hizo este stream,NEUTRO,NEUTRO,True
+185,chamas tengo la teoría loca de que mí padre está poseído no se cómo explicarlo simplemente lo sentí pero cuando estoy con el siento algo muy feo cómo una premonición de que algo va a pasar y juro que puedo explicarto,NEGATIVO,NEGATIVO,True
+186,solo te pido una señal un incentivo para poder seguir adelante en este camino que recorrí durante todo este tiempo camino desorientador irregular pero esclarecedor dame las fuerzas y la seguridad en mi para seguir aquí,NEGATIVO,POSITIVO,False
+187,estar conmigo debe ser molesto,NEGATIVO,NEGATIVO,True
+188,miro luces en lo obscuro mami tú eres mi conjuro tu cintura me pone relax,NEGATIVO,NEGATIVO,True
+189,es que ya quiero hacer mi tarea pero contestarle es más divertido,POSITIVO,POSITIVO,True
+190,oye esta última muela del juicio que me sacaron es la que más he sentido ha pasado una semana y si bien no he sentido un dolor fuerte igual ha sido un poquito molesto hoy ya disminuyó harto sí casi no sentí nada la vez pasada me saqué las dos de abajo y nunca sentí nada,NEGATIVO,NEGATIVO,True
+191,todo el mundo preocupado por baltasar y el blackface y yo pensando que no me toque el haba de roscón dejarnos disfrutar de los reyes magos tranquilos turras,POSITIVO,NEGATIVO,False
+192,team leon pq era más lindo q tomas además tenía facha d maloy era re atento y tomas parecía de esos q se hacían los buenitos y los tiernos y en realidad quieren romperte el corazón en mil pedazos y diego era un rockero con mal gusto,NEUTRO,NEUTRO,True
+193,es un golazo pero la falta de contundencia contundensia es desesperante el equipo se ha caído desde el empate y los cambios dignos de un demente han desconcertado aún más al equipo,POSITIVO,NEGATIVO,False
+194,amo el olor a hierba luisa me ha calmado bastante,NEUTRO,NEUTRO,True
+195,porque ese jevo tuyo tá celoso,NEGATIVO,NEGATIVO,True
+196,la soledad es peligrosa es muy adictiva se convierte en un hábito cuando te das cuenta de lo tranquila y apacible que es es como si ya no quisieras tratar con las personas porque te agotan la energía jim carrey,NEUTRO,NEUTRO,True
+197,comprende akira es como un perro que necesita espacio para correr o se comienza a angustiar apuntado para próximos exámenes una ceja alza mirándole de soslayo mientras esperaba en la barra por su batido ya te has calmado no esperaba verle tomando té ni nada en,NEUTRO,NEUTRO,True
+198,y bueno después de mucho tiempo caí en cama muy dolorido pero pronta recuperación,NEGATIVO,NEGATIVO,True
+199,tengo la extraña sensación de que estas dos semanas que he estado trabajando tantísimo con mi vida en stand by me ha distanciado de mi gente porque está todo el mundo como desaparecido,NEGATIVO,NEUTRO,False
+200,q viernes tan sereno aburrido,NEUTRO,NEUTRO,True
+201,estamos todos na torcida para o bin laden,POSITIVO,NEUTRO,False
+202,una morra que nunca en su vida ha podido tener algo estable gracias a qué es bien culera de actitudes viene y me dice que estoy feo,NEUTRO,NEUTRO,True
+203,que decirte así de la nada dueño de mi propio negocio legalmente inscripto un poco desilusionado siempre pensé que a esta altura iba estar siendo un capomafia pero no ando arreglando máquinas,NEGATIVO,NEGATIVO,True
+204,entusiasta de la ia iluminación de los atardeceres,POSITIVO,POSITIVO,True
+205,desde la semana que esperaba sentir movimientos de mi bebé y nada recién en la semana empecé a sentir hoy pisando las semanas pido que se calme un poquito es super inquieto pero en ciertos horarios,NEGATIVO,NEUTRO,False
+206,este año voy a ser exitoso no importa cuántas noches sin dormir pase ni cuántas cosas deba sacrificar me lo prometo,POSITIVO,POSITIVO,True
+207,asquerosamente pauteada la nota sobre milito en datasportsxtntsports hasta metieron a pellegrini y guardiola lo muestran como un técnico apetecido por varios equipos y un triunfador cuando se sabe que no le ha ganado a nadie periodistas come pan,POSITIVO,NEGATIVO,False
+208,decir no es una habilidad valiosa que debemos aprender a veces decir no nos permite enfocarnos en lo que realmente importa autocuidado estabilidademocional,POSITIVO,NEGATIVO,False
+209,ahora fuera de joda y ya que le interesa a todo el mundo muy contento y esperanzado con las palabras de don diego hernán gonzález digo martínez perdón la herida sigue abierta,POSITIVO,POSITIVO,True
+210,estoy cansado aturdido estresado desorientado somnoliento deprimido desentendido sonámbula roto rotísimo adormecido,NEGATIVO,NEGATIVO,True
+211,esta tarde en la zona travieso cano san bernardo predominaba el fachaleco el pelaso cayetano y los mocasines con pantalones tobilleros entre el piberio de a años y hasta aquí mi aportación a esta noche de botellón,POSITIVO,POSITIVO,True
+212,no he descansado nads en esta semana,NEUTRO,NEUTRO,True
+213,desconfío mucho de la gente que entrena mucho llena un vacío firma un gordo resentido,NEGATIVO,NEGATIVO,True
+214,qué estúpido se puso a llorar,NEGATIVO,NEGATIVO,True
+215,los reyes magos no me quieren traer el jaifon,POSITIVO,POSITIVO,True
+216,el día que no cante mirror a todo pulmón o con sentimiento tengan asegurado que no soy yo,NEUTRO,NEUTRO,True
+217,da igual cuantas veces la vea siempre me quedo asombrado con el arco de mortis y los dioses de la fuerza,POSITIVO,POSITIVO,True
+218,admito que un momento muy veneco de mi parte aquí en usa fue cuando iba a cualquier lugar a comprar algo en efectivo y me dan vuelto en billetes de o de o en monedas pasaba al asombro,POSITIVO,POSITIVO,True
+219,eh wey las direccionales no gastan gasolina,POSITIVO,NEGATIVO,False
+220,no sé si estoy enojado triste o desilusionado ptm,NEGATIVO,NEGATIVO,True
+221,wjiwjw hoy cuando fui a la librería para comprarme el libro le dije a lla señora que quería la novela gráfica de los ojos de plata xq estaba medio nervioso y pensé que no me iba a entender pero si lo agarro bien rápido y era muy tierna la quiero señora,NEUTRO,NEGATIVO,False
+222,cuál es la diferencia entre la soledad y el destino me llamaste isla y quisiste habitarme hacer crecer mi piel sobre tu tierra deshacer mi invierno protegido y alumbrar el abandono elegido de la arena pudiste quedarte posar tu futuro sobre mis ruinas,NEUTRO,POSITIVO,False
+223,todo fue tan espontáneo tan natural que a ninguno de los dos nos pareció nada raro que de pronto mi mano estuviera en su mano y que nos miráramos como dos tontos benedetti,POSITIVO,NEUTRO,False
+224,la soledad es peligrosa es muy adictiva se convierte en un hábito cuando te das cuenta de lo tranquila y apacible que es es como si ya no quisieras tratar con las personas porque te agotan la energía jim carrey,NEUTRO,NEUTRO,True
+225,que irascible está la gente y eso que es viernes,NEGATIVO,NEGATIVO,True
+226,qué bonito mirar atrás y darte cuenta de cómo te has fortalecido como has sanado y como has reconocido que tu bienestar es prioridad gracias vida por mi historia mis aprendizajes y mi proceso gracias tiempo alas de águila,NEUTRO,NEUTRO,True
+227,buen paso de casanova por el club en un momento fue el mejor central del campeonato pero su caída era para no creer ahora urge traer otro central ojalá mayo haya convencido al de huachipato o tenga a alguien,POSITIVO,POSITIVO,True
+228,amo mi pinche celular pero ya me harto alch ya lo cambio ya me tiene harta fallando por todo y ni sirve la puta pantalla,NEGATIVO,POSITIVO,False
+229,se fue a dormir temprano que porqué estaba cansado y se quedó en ig cómo hasta las am mi dormilón favorito,NEGATIVO,NEGATIVO,True
+230,risilla deja salir restándole importancia a modo de ademán despreocupado tranquila no pasa nada con el afán de mermar el sobresalto llevo ido desde hace rato normal que no te viera venir no mentía las razones fueron las primeras mencionadas se muere de hambre y,POSITIVO,POSITIVO,True
+231,mi corazón se volvió inquebrantable cuando el hombre de mi vida me lo rompió es más probable que una mala actitud me ocasione lástima y decepción que llanto,NEUTRO,POSITIVO,False
+232,solo le gusta verme celoso eso es todo me devuelvo por donde vine,NEGATIVO,NEGATIVO,True
+233,sra algo que decir sobre lo del padre de martin pradenas atento quedosra diputada,NEUTRO,NEUTRO,True
+234,uno puede ser bastante tolerante con los demás condescendiente incluso cuando la tolerancia se termina y en su lugar se hace presente la firmeza los demás se victimizaran,POSITIVO,POSITIVO,True
+235,será que todavía hay gente que va a cartagena y baru a que los atraquen no hay autoridad menos control ni protección al turista,NEUTRO,NEGATIVO,False
+236,leyendo las tantas locuras sesgadas por el fanatismo dónde se le echa la culpa a henry blanco por haber perdido el juego de hoy dónde por lo general lara da hit y no dió el batazo oportuno y de igual manera el tiro malo del short a primera son hechas por jugador no por el mg,NEGATIVO,NEGATIVO,True
+237,ya me dio hambre xd ptmre,NEGATIVO,NEUTRO,False
+238,jihyuk sonrojado es tan lindo y le quiero tomar captura y no puedo malditaseaaaa,NEGATIVO,POSITIVO,False
+239,la soledad es peligrosa es muy adictiva se convierte en un hábito cuando te das cuenta de lo tranquila y apacible que es es como si ya no quisieras tratar con las personas porque te agotan la energía jim carrey,NEUTRO,NEUTRO,True
+240,si tocas un alma sé dulce sé suave y agradecido respeta el latido sonríe cualquiera no puede tocar,NEUTRO,NEUTRO,True
+241,ni mi gisti diigi tirris ni isti il nivil dil cintiniri hirminis yiipin ni pisi nidi riil rimiri is pivi istin hiciindi in pipilin firriri rininci se olvidaron que somos un club de fútbol creen que la u es su tono su juerguista de los fines de semana chibolos cojudos,POSITIVO,POSITIVO,True
+242,mañana viajo muy lejos solo por primera vez estoy demasiado nervioso preocupado todo,NEGATIVO,NEGATIVO,True
+243,el recontracoñisimo de su madre van veces que se va la energía eléctrica hoy cortoelec de mierda,POSITIVO,NEGATIVO,False
+244,estoy segurisima que en algún momento todo deja de doler por ahora no pero en algún momento seguro que si,NEUTRO,POSITIVO,False
+245,para las compras puedo ser tan compulsivo como mi madre o tan codo como mi padre,NEGATIVO,NEUTRO,False
+246,nuevamente anhelo casarme algún día con ese especial murmura juntando ambas manos en esperanzado desear,POSITIVO,POSITIVO,True
+247,tirao pa atrás sin preocupaciones de na viviendo la vida relajao hermano,NEUTRO,NEUTRO,True
+248,con un vasito en la mano y el cuerpo siento cansado fumando voy relajado,NEUTRO,NEUTRO,True
+249,se habla de racismo pero no de transfobia el doble rasero para medir el valor de nuestra gente atónito estoy,POSITIVO,POSITIVO,True
+250,una que me mande tweets,NEUTRO,NEUTRO,True
